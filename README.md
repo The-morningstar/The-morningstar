@@ -33,3 +33,4 @@
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/The-morningstar/The-morningstar/blob/output/github-contribution-grid-snake.svg)
+
