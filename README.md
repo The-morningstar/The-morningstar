@@ -31,6 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-morningstar&show_icons=true&locale=en&layout=compact" alt="the-morningstar" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/The-morningstar/The-morningstar/blob/output/github-contribution-grid-snake.svg)
+
 
