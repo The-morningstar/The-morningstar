@@ -3,7 +3,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/the_morningstar" target="blank"><img src="https://img.shields.io/twitter/follow/the_morningstar?logo=twitter&style=for-the-badge" alt="the_morningstar" /></a> </p>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>">
 
 - 🔭 I’m currently working on **React based webproject for IEEE Photonics Kerala chapter**
 
